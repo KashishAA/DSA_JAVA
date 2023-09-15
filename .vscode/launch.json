@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "inverse",
+            "request": "launch",
+            "mainClass": "inverse",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
             "name": "DifferenceOfCharacter",
             "request": "launch",
             "mainClass": "DifferenceOfCharacter",
