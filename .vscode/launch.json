@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DifferenceOfCharacter",
+            "request": "launch",
+            "mainClass": "DifferenceOfCharacter",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "ASCII",
+            "request": "launch",
+            "mainClass": "ASCII",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "comparison",
+            "request": "launch",
+            "mainClass": "comparison",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "palindromString",
+            "request": "launch",
+            "mainClass": "palindromString",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "Stringg",
+            "request": "launch",
+            "mainClass": "Stringg",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "saddle_price",
+            "request": "launch",
+            "mainClass": "saddle_price",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "diagonal_traversal",
+            "request": "launch",
+            "mainClass": "diagonal_traversal",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "SearchInSortedArray",
+            "request": "launch",
+            "mainClass": "SearchInSortedArray",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "Ninety_degree_rotation",
+            "request": "launch",
+            "mainClass": "Ninety_degree_rotation",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "water_traversal",
+            "request": "launch",
+            "mainClass": "water_traversal",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "matrix_multiply",
+            "request": "launch",
+            "mainClass": "matrix_multiply",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "two_d_array",
+            "request": "launch",
+            "mainClass": "two_d_array",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_of_number",
+            "request": "launch",
+            "mainClass": "Reverse_of_number",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "subset_of_array",
+            "request": "launch",
+            "mainClass": "subset_of_array",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "broken_economy",
+            "request": "launch",
+            "mainClass": "broken_economy",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Binary_search",
+            "request": "launch",
+            "mainClass": "Binary_search",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "GCD_LCM",
+            "request": "launch",
+            "mainClass": "GCD_LCM",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "Inverse_digit",
+            "request": "launch",
+            "mainClass": "Inverse_digit",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "count_digit_in_number",
+            "request": "launch",
+            "mainClass": "count_digit_in_number",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "digit_frequency",
+            "request": "launch",
+            "mainClass": "digit_frequency",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "digit_frequency1",
+            "request": "launch",
+            "mainClass": "digit_frequency1",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "fibonaciSerie",
+            "request": "launch",
+            "mainClass": "fibonaciSerie",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "find_Element",
+            "request": "launch",
+            "mainClass": "find_Element",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "firs_last_index",
+            "request": "launch",
+            "mainClass": "firs_last_index",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern10",
+            "request": "launch",
+            "mainClass": "pattern10",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern11",
+            "request": "launch",
+            "mainClass": "pattern11",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern12",
+            "request": "launch",
+            "mainClass": "pattern12",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern14",
+            "request": "launch",
+            "mainClass": "pattern14",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern15",
+            "request": "launch",
+            "mainClass": "pattern15",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern16",
+            "request": "launch",
+            "mainClass": "pattern16",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern17",
+            "request": "launch",
+            "mainClass": "pattern17",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern18",
+            "request": "launch",
+            "mainClass": "pattern18",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "pattern4",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "pattern5",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "pattern6",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern7",
+            "request": "launch",
+            "mainClass": "pattern7",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern8",
+            "request": "launch",
+            "mainClass": "pattern8",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "pattern9",
+            "request": "launch",
+            "mainClass": "pattern9",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "patternlakshay",
+            "request": "launch",
+            "mainClass": "patternlakshay",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "prime_number",
+            "request": "launch",
+            "mainClass": "prime_number",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "prime_till_number",
+            "request": "launch",
+            "mainClass": "prime_till_number",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "reverse_number",
+            "request": "launch",
+            "mainClass": "reverse_number",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "reverse_of_array",
+            "request": "launch",
+            "mainClass": "reverse_of_array",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "span_of_array",
+            "request": "launch",
+            "mainClass": "span_of_array",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "sub",
+            "request": "launch",
+            "mainClass": "sub",
+            "projectName": "dataStructure With Java_fffce8c3"
+        },
+        {
+            "type": "java",
+            "name": "sub_array",
+            "request": "launch",
+            "mainClass": "sub_array",
+            "projectName": "dataStructure With Java_fffce8c3"
+        }
+    ]
+}
